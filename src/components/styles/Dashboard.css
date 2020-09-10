@@ -1,0 +1,28 @@
+.Dashboard {
+    background: #FFFFFF;
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.10);
+    border-radius: 10px 10px 10px 10px;
+}
+  
+.Dashboard_header {
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+    width: 100%;
+    background: #90999e;
+    color: #dee3e6;
+    text-align: center;
+    font-size: 25px;
+    font-display: inline;
+}
+
+.Dashboard_info {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 17px;  
+}
+  
+img{
+    margin: 4%;
+}

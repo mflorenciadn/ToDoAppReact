@@ -1,0 +1,14 @@
+.Navbar {
+    width: 100%;
+    padding: 0.5rem 0;
+    background: #90999e;
+    color: #dee3e6;
+    font-size: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.20);
+    text-align: center;
+    
+}
+
+.Logo {
+    margin: 2%;
+}
